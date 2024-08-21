@@ -2,7 +2,7 @@
 I'm a Software Engineer with experience using JavaScript, TypeScript, Python, React, Ruby, Node.js, Flask, Amazon Web Services (EC2, Kinesis, Lambda, Dynamo, S3), AWS CDK, Terraform and Docker. 
 
 ## 🚀 Helios
-Most recently, I've created Helios, an open-source platform designed to simplify the visualization and analysis of real-time event streams by exposing data for SQL querying. It's intuitive web app and automated deployment solution is catered to helping Amazon Kinesis users.
+Most recently, I've created Helios, an open-source platform designed to simplify the visualization and analysis of real-time event streams by exposing data for SQL querying. It's web app and automated deployment solution is catered to helping Amazon Kinesis users.
 
 To learn more about the design trade-offs and architecture, you can view the [technical case-study here](https://helios-platform.github.io/).
 
