@@ -1,7 +1,7 @@
 ## Hello traveler, I'm Sean! 👋
 I'm a constant learner and currently a backend software engineer within the web3 space at Dapper Labs. I have full-stack experience and preference for backend work. My expertise is in, but not limited to: 
 
-𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Golang, Python, Ruby, TypeScript, JavaScript, SQL
+𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Golang, TypeScript, Ruby, Python, JavaScript, SQL
 
 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 / 𝐑𝐮𝐧𝐭𝐢𝐦𝐞: Flask, Express, React, Rails, Sinatra, Node.js
 
