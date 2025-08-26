@@ -15,7 +15,7 @@ I'm a constant learner and currently a backend software engineer within the web3
 
 
 ## 🚀 Helios
-Previously to Dapper Labs, I was a founding engineering at Helios; an open source platform designed to simplify the visualization and real-time analysis of event streams by exposing data for SQL querying. It's web app and automated deployment solution catered to helping Amazon Kinesis users.
+Previously to Dapper Labs, I was a founding engineer at Helios; an open source platform designed to simplify the visualization and real-time analysis of event streams by exposing data for SQL querying. It's web app and automated deployment solution catered to helping Amazon Kinesis users.
 
 To learn more about the design trade-offs and architecture, you can view the [technical case-study here](https://helios-platform.github.io/).
 
