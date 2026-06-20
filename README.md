@@ -1,18 +1,20 @@
 ## Hello traveler, I'm Sean! 👋
-I'm a constant learner and currently a backend software engineer within the web3 space at Dapper Labs. I have full-stack experience and preference for it and backend work. My expertise is in, but not limited to: 
+I am a Full-Stack Product Engineer specializing in designing, building, and shipping products from 0-1. I blend deep expertise in distributed systems and micro-service architectures with modern AI agent orchestration workflows to deliver resilient, scalable, and high-impact products.
 
-𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Golang, TypeScript, Ruby, Python, JavaScript, SQL
+### ~~ What I'm working on ~~
+🤖 AI Agent Product Engineering: Designing self-correcting, multi-agent frameworks that build, test, and debug production software autonomously.  
+📞 AI Voice Agent + Dashboard (building for client): A multi-tenant, privacy-compliant voice-AI intake backend and dashboard handling automated triage  
+💰 Canadian Finance App: A cross-platform finance app built with an intelligent data validation layer; combines vector search and knowledge graphs to dynamically audit complex compliance rules against verified local vaults.  
 
-𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 / 𝐑𝐮𝐧𝐭𝐢𝐦𝐞: Flask, Express, React, Rails, Sinatra, Node.js
-
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: PostgreSQL, Google Cloud Spanner, ClickHouse, MongoDB, DynamoDB
-
-𝐂𝐥𝐨𝐮𝐝 & 𝐈𝐧𝐟𝐫𝐚: AWS (EC2, Lambda, Kinesis, S3, IAM, CDK), Terraform, DigitalOcean, Heroku
-
-𝐀𝐏𝐈𝐬 & 𝐌𝐞𝐬𝐬𝐚𝐠𝐢𝐧𝐠: REST, gRPC, GraphQL, Google Pub/Sub, Kafka
-
-𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰 𝐎𝐫𝐜𝐡𝐞𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧: Temporal
-
+### ~~ Skills ~~
+**Languages:** Go (Golang), TypeScript, Python, Ruby, JavaScript, SQL  
+**Backend Frameworks & Runtimes:** Node.js, Ruby on Rails, Express, Flask, Sinatra  
+**Frontend & UI:** React, Tailwind  
+**Databases:** PostgreSQL, Google Cloud Spanner, ClickHouse, DynamoDB, MongoDB  
+**Cloud & Infrastructure:** AWS (CDK, Lambda, Kinesis, EC2, S3), GCP, Terraform, DigitalOcean, Heroku  
+**APIs & Messaging:** Kafka, Google Pub/Sub, gRPC, ConnectRPC, GraphQL, REST  
+**Workflow Orchestration:** Temporal  
+**AI Orchestration & Testing:** Claude Code, Claude Design, NotebookLM, Playwright, Vitest  
 
 ## 🚀 Helios
 Previously to Dapper Labs, I was a founding engineer at Helios; an open source platform designed to simplify the visualization and real-time analysis of event streams by exposing data for SQL querying. It's web app and automated deployment solution catered to helping Amazon Kinesis users.
