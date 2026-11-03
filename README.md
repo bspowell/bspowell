@@ -1,5 +1,5 @@
 ## Hello traveler, I'm Sean! 👋
-I am a Full-Stack Engineer specializing in designing, building, and shipping products end to end. I blend deep expertise in distributed, event driven systems, micro-service architectures, blockchain and building performant AI agents to deliver resilient, scalable, and high-impact products. 
+I am a Full-Stack Engineer specializing in designing, building, and shipping products end to end with a customer-mindset. I blend deep expertise in distributed, event driven systems, micro-service architectures, blockchain and building performant AI agents to deliver resilient, scalable, and high-impact products. 
 
 ### ~~ Built in Production ~~
 
