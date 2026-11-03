@@ -1,16 +1,13 @@
 ## Hello traveler, I'm Sean! 👋
 I am a Full-Stack Engineer specializing in designing, building, and shipping products end to end with a customer-mindset. I blend deep expertise in distributed, event driven systems, micro-service architectures, blockchain and building performant AI agents to deliver resilient, scalable, and high-impact products. 
 
-### ~~ Built in Production ~~
+### ~~ Recent Work ~~
 
-🦷 Voice Agent + CRM: Built an AI receptionist and CRM for a Canadian dental clinic. It answers every missed call, triages, books patients by text, and pages the on-call dentist — with a multi-tenant dashboard for the front desk.
+🦷 Voice Agent + CRM (in production): Built an AI receptionist and CRM for a Canadian dental clinic. It answers every missed call, triages, books patients by text, and pages the on-call dentist — with a multi-tenant dashboard for the front desk.
 
+🤖 Jarvis (project), an AI voice agent assistant: a LangGraph orchestrator agent with web search, calendar and Notion sub-agents, real-time voice through LiveKit, persistent memory, human-in-the-loop step before any change and a holographic desktop UI.
 
-### ~~ Projects ~~
-
-🤖 Jarvis: an AI voice agent assistant: a LangGraph orchestrator agent with web search, calendar and Notion sub-agents, real-time voice through LiveKit, persistent memory, human-in-the-loop step before any change and a holographic desktop UI.
-
-💰 Canadian Finance App: A cross-platform finance app built with an intelligent data validation layer; combines vector search and knowledge graphs to dynamically audit complex compliance rules against verified local vaults.
+💰 Canadian Finance App (project): A cross-platform finance app built with an intelligent data validation layer; combines vector search and knowledge graphs to dynamically audit complex compliance rules against verified local vaults.
 
 
 ### ~~ Skills ~~
