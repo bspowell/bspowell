@@ -11,13 +11,14 @@ I am a Full-Stack Engineer specializing in designing, building, and shipping pro
 
 
 ### ~~ Skills ~~
-**Frontend** —— TypeScript, JavaScript (ES6+), React, Vue.js, Tailwind, Playwright
-
 **Backend & Infra** —— Go, Python, Ruby, Temporal, Google Pub/Sub, Kafka, GraphQL, gRPC, AWS, GCP Cloud Run, Docker, Terraform
+
+**AI & Agents** —— LLM APIs (OpenAI/Anthropic), LangChain, LangGraph, LiveKit, agent tool calling, LLM evals, prompt & context engineering, state management, Claude Code, Cursor
 
 **Databases & Observability** —— PostgreSQL, Google Spanner, ClickHouse, Redis, Vector DBs, PagerDuty, Grafana, LangSmith
 
-**AI & Agents** —— LLM APIs (OpenAI/Anthropic), LangChain, LangGraph, LiveKit, agent tool calling, LLM evals, prompt & context engineering, state management, Claude Code, Cursor
+**Frontend** —— TypeScript, JavaScript (ES6+), React, Vue.js, Tailwind, Playwright
+
 
 
 ## ✉️ How to get in touch
