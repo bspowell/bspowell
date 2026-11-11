@@ -3,9 +3,9 @@ I am a Full-Stack Engineer specializing in designing, building, and shipping pro
 
 ### ~~ Recent Work ~~
 
-🦷 Voice Agent + CRM (in production): Built an AI receptionist and CRM for a Canadian dental clinic. It answers every missed call, triages, books patients by text, and pages the on-call dentist — with a multi-tenant dashboard for the front desk.
+🦷 Voice Agent + CRM (gumlyai.com): Built an AI receptionist and CRM for a client and Canadian dental clinic. It answers every missed call, triages, books patients by text, and pages the on-call dentist — with a multi-tenant dashboard for the front desk.
 
-🤖 Jarvis (project), an AI voice agent assistant: a LangGraph orchestrator agent with web search, calendar and Notion sub-agents, real-time voice through LiveKit, persistent memory, human-in-the-loop step before any change and a holographic desktop UI.
+🤖 Jarvis : a multi-agent AI voice assistant (Python, LangGraph, LiveKit, ElevenLabs): a LangGraph orchestrator agent with web search, calendar and Notion sub-agents, real-time voice through LiveKit, persistent short and long term memory, human-in-the-loop step before any change and a holographic desktop UI.  https://github.com/bspowell/jarvis-voice-agent
 
 💰 Canadian Finance App (project): A cross-platform finance app built with an intelligent data validation layer; combines vector search and knowledge graphs to dynamically audit complex compliance rules against verified local vaults.
 
