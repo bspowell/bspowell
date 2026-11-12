@@ -7,15 +7,15 @@ I am a Full-Stack Engineer specializing in designing, building, and shipping pro
 
 🤖 Jarvis : a multi-agent AI voice assistant (Python, LangGraph, LiveKit, ElevenLabs): a LangGraph orchestrator agent with web search, calendar and Notion sub-agents, real-time voice through LiveKit, persistent short and long term memory, human-in-the-loop step before any change and a holographic desktop UI.  https://github.com/bspowell/jarvis-voice-agent
 
-💰 Canadian Finance App (project): A cross-platform finance app built with an intelligent data validation layer; combines vector search and knowledge graphs to dynamically audit complex compliance rules against verified local vaults.
+💰 Canadian Finance App (in-progress): A comprehensive retirement app that tracks your money across your bank accounts, household, real estate, tracks the gaps to your retirement goals and provides tax optimized strategies at retirement.
 
 
 ### ~~ Skills ~~
-**Backend & Infra** —— Go, Python, Ruby, Temporal, Google Pub/Sub, Kafka, GraphQL, gRPC, AWS, GCP Cloud Run, Docker, Terraform
+**Backend & Infra** —— Go, Python, Ruby, Temporal, Google Pub/Sub, Kafka, GraphQL, REST, gRPC, AWS, GCP Cloud Run, Docker, Terraform
 
-**AI & Agents** —— LLM APIs (OpenAI/Anthropic), LangChain, LangGraph, LiveKit, agent tool calling, LLM evals, prompt & context engineering, state management, Claude Code, Cursor
+**AI & Agents** —— Claude Code, Cursor, LLM APIs (OpenAI/Anthropic/Perplexity), LangGraph, LangChain, LangSmith, LiveKit, ElevenLabs, Deepgram, agent tool calling, LLM evals, prompt & context engineering, state management, MCPs
 
-**Databases & Observability** —— PostgreSQL, Google Spanner, ClickHouse, Redis, Vector DBs, PagerDuty, Grafana, LangSmith
+**Databases & Observability** —— PostgreSQL, Redis, Google Spanner, ClickHouse, PagerDuty, Grafana, LangSmith
 
 **Frontend** —— TypeScript, JavaScript (ES6+), React, Vue.js, Tailwind, Playwright
 
